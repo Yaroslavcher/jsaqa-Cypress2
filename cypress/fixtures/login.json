@@ -1,0 +1,11 @@
+{
+    "valid": {
+        "mail": "qamid@qamid.ru",
+        "password": "qamid"
+    },
+
+    "invalid": {
+        "mail": "qamid@qamid.r",
+        "password": "qami"
+    }
+}

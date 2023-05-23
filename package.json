@@ -1,0 +1,16 @@
+{
+  "name": "7-07-cypress2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./e2e/login.cy.js",
+    "dashboard": "npx cypress run --record --key 3cdd9e5a-f4c2-491b-957c-701ea0940b91"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.4.1"
+  }
+}

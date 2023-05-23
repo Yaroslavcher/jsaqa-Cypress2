@@ -1,0 +1,11 @@
+{
+    "day":".page-nav__day",
+    "fourthDay":"a.page-nav__day:nth-of-type(4)",
+    "movieTitleAdmin":".conf-step__movie-title",
+    "movieTitleGuest":".movie__title",
+    "movieTime":".movie-seances__time",
+    "hallTime":".buying__info-start",
+    "button":".acceptin-button",
+    "email":"[type='email']",
+    "password":"[type='password']"
+}
